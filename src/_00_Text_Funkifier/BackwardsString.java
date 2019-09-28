@@ -8,7 +8,7 @@ public class BackwardsString extends SpecialString {
 
 	@Override
 	public String funkifyText(String s) {
-		
+		System.out.println("tset a si sihT");
 		return "";
 	}
 

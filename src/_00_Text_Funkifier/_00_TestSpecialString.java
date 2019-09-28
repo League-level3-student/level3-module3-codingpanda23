@@ -10,7 +10,7 @@ public class _00_TestSpecialString {
 	//   the abstract class SpecialString. Notice that the
 	//   SpecialString class implements TextFunkifier. Then 
 	//   take a look at the BackwardsString class. Notice 
-	//   that it extends SpecialString. This means that is also
+	//   that it extends SpecialString. This means that it also
 	//   implements TextFunkifier. Therefore, it must overwrite the
 	//   funkifyText method.
 	
